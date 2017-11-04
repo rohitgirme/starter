@@ -13,12 +13,12 @@ Webpack with the build configuration
 
 ## Contents
 
-| ------------- |:-------------:
-| public        | all the UI assets including JS, CSS and HTML 
-| views         | used for server side rendering      
-| routes        | for routing on the server side
-| utils         | for server side utils. Currently has logger for server side logging
-| app.js        | starting point for server
+| ------------- |:------------------------------------------------------------------:|
+| public        | all the UI assets including JS, CSS and HTML 						 |
+| views         | used for server side rendering      								 |
+| routes        | for routing on the server side									 |
+| utils         | for server side utils. Currently has logger for server side logging|
+| app.js        | starting point for server											 |
 
 ## Usage
 
