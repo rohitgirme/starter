@@ -12,7 +12,7 @@ Express
 Webpack with the build configuration
 
 ## Contents
-
+|				|																	 |
 | ------------- |:------------------------------------------------------------------:|
 | public        | all the UI assets including JS, CSS and HTML 						 |
 | views         | used for server side rendering      								 |
